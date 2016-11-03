@@ -48,7 +48,7 @@
 						<td>Gob</td>
 						<td>Oh, yeah, the guy in the the $4,000 suit is holding the elevator for a guy who doesn't make that in three months. Come on!</td>
 					</tr>
-					</tr>
+
 					<tr>
 						<td>Tobias</td>
 						<td>Excuse me. Do these effectively hide my thunder?</td>
